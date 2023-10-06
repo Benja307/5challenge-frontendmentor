@@ -64,7 +64,7 @@ Seuiré trabajando mis habilidades con javascript para poder seguir facilitando 
 - El siguiente video me ayudó a poder trabajar mi solución tanto para darle el estilo a la barra de navegación cuando se despliega como para armar el js, si bien no utilizo la misma solución del javascript esto me ayudó a ver como podría hacerlo. --> https://youtu.be/Xs3cC8-5QDI 
 
 ## Author
-- LinkedIn - https://www.linkedin.com/in/benjamin-corujo-14660824a
+- LinkedIn - https://www.linkedin.com/in/benjamin-corujo-alanis
 - Frontend Mentor - https://www.frontendmentor.io/profile/Benja307
 - Instagram - @corujobenja_30
 
